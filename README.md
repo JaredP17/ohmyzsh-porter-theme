@@ -49,7 +49,6 @@ else
 fi
 ```
 
-#
 ## My CLI Preferences
 
 ### Apple Terminal:
@@ -88,7 +87,6 @@ Clean Working Tree
 
 Unclean Working Tree
 ![Unclean Working Tree](./images/term-git-dirty.png)
-#
 
 ## Contributors
 
