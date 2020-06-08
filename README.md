@@ -1,4 +1,4 @@
-# Oh My Zsh Theme: "custom"
+# Oh My Zsh Theme: "porter"
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@ _Note: many other themes aside from my own require installing the [Powerline Fon
 
 ## Basic Installation
 1. Clone/download this repository to your computer.
-2. Move the `custom.zsh-theme` file into the `~/.oh-my-zsh/themes` directory.
+2. Move the `porter.zsh-theme` file into the `~/.oh-my-zsh/themes` directory.
 3. See below about enabling theme.
 
 
@@ -28,7 +28,7 @@ ZSH_THEME="robbyrussell"
 To use my theme, simply change the value to match the name of the theme. For example:
 
 ```shell
-ZSH_THEME="custom"
+ZSH_THEME="porter"
 ```
 
 ### Conditional Theming
@@ -41,7 +41,7 @@ if [ "$TERM_PROGRAM" = "iTerm.app" ]; then
 
 # If running Apple Terminal or Visual Studio Code
 elif [ "$TERM_PROGRAM" = "Apple_Terminal" ] || [ "$TERM_PROGRAM" = "vscode" ]; then 
-    ZSH_THEME="custom"
+    ZSH_THEME="porter"
 
 # Default zsh theme
 else
@@ -54,7 +54,7 @@ fi
 ### Apple Terminal:
 * Homebrew color profile
 * Font: SauceCodePro Nerd Font
-* Oh My Zsh Theme: custom
+* Oh My Zsh Theme: porter
 
 ### iTerm2:
 * Solarized Dark color profile
@@ -64,7 +64,7 @@ fi
 ### Visual Studio Code:
 * Default Dark+ color profile
 * Font: SauceCodePro Nerd Font
-* Oh My Zsh Theme: custom
+* Oh My Zsh Theme: porter
 
 ## Previews
 
