@@ -70,7 +70,7 @@ fi
 ## Previews
 
 ### Home directory, after running neofetch command
-_Note: neofetch is a homebrew package._
+_Note: neofetch is an installed package._
 
 _Apple Terminal_
 ![Apple Terminal](./images/term.png)
