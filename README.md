@@ -2,7 +2,8 @@
 
 ## Prerequisites
 
-* A macOS operating system. Other Unix like systems may work with tweaking, but this has only been setup to work on macOS as of now.
+* A macOS operating system. Other Unix like systems may work.
+    * Update: Confirmed working on Ubuntu
 * [Zsh](https://www.zsh.org) should be installed (v4.3.9 or more recent). If not pre-installed (run `zsh --version` to confirm), check the following instructions here: [Installing ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 * Oh My Zsh should be installed. To learn more, visit [ohmyz.sh](https://ohmyz.sh)
 * Installing [Nerd Fonts](https://www.nerdfonts.com/) is required for my theme to render properly. 
@@ -79,6 +80,9 @@ _iTerm2_ - Uses the _"anoster"_ theme with my conditional script
 
 _Visual Studio Code_
 ![Visual Studio](./images/vscode.png)
+
+_Ubuntu Terminal_
+![Ubuntu](./images/ubuntu.png)
 
 ### Within a Git repository
 
