@@ -29,7 +29,7 @@ $PR_PROMPT"
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[blue]%}  \uf408 %{$fg[yellow]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "
-ZSH_THEME_GIT_PROMPT_DIRTY="%{\ue725 $fg[red]%}\uf417"
-ZSH_THEME_GIT_PROMPT_CLEAN="%{\ue725"
+ZSH_THEME_GIT_PROMPT_DIRTY="\ue725 %{$fg[red]%}\uf417"
+ZSH_THEME_GIT_PROMPT_CLEAN="\ue725"
 
 }
